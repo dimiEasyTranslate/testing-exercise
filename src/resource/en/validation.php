@@ -147,7 +147,7 @@ return [
         'target_languages.*.qa_performers' => 'QA performers',
         'phone'                            => 'phone number',
         'steps.*.identifier'               => 'step identifier',
-        'seo_settings.enabled'             => 'SEO settings enabled NEW-Change',
+        'seo_settings.enabled'             => 'SEO settings enabled NEW-Changeee',
     ],
 ];
 
