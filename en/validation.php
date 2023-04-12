@@ -94,4 +94,5 @@ $lang["attributes::target_languages.*.qa_subjects"] = "QA subjects";
 $lang["attributes::target_languages.*.qa_performers"] = "QA performers";
 $lang["attributes::phone"] = "phone number";
 $lang["attributes::steps.*.identifier"] = "step identifier";
-$lang["attributes::seo_settings.enabled"] = "SEO settings enabled";
+$lang["attributes::seo_settings.enabled"] = "SEO settings enabled NEW-Changeee";
+$lang["attributes::seo_settings.enabled2"] = "SEO settings enabled2";
