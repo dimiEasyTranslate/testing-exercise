@@ -148,6 +148,7 @@ return [
         'phone'                            => 'phone number',
         'steps.*.identifier'               => 'step identifier',
         'seo_settings.enabled'             => 'SEO settings enabled NEW-Changeee',
+        'seo_settings.enabled2'             => 'SEO settings enabled2',
     ],
 ];
 
