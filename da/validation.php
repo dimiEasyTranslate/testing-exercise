@@ -95,3 +95,4 @@ $lang["attributes::target_languages.*.qa_performers"] = "";
 $lang["attributes::phone"] = "DA-phone number";
 $lang["attributes::steps.*.identifier"] = "DA-step identifierda";
 $lang["attributes::seo_settings.enabled"] = "DA-SEO settings enabled";
+$lang["attributes::seo_settings.enabled2"] = "DA-SEO settings enabled2";
